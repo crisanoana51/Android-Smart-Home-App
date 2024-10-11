@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">uidproject</string>
+    <string name="home">Home</string>
+    <string name="lights">Lights</string>
+    <string name="temperature">Temperature</string>
+    <string name="notifications">Notifications </string>
+    <string name="kids_tv">Kids TV</string>
+    <string name="settings">Settings</string>
+    <string name="schedule">Schedule</string>
+    <string name="pet_feeder">Pet Feeder</string>
+    <string name="voice_command">Voice Command</string>
+
+    <!-- HOME -->
+    <string name="welcome_home">Welcome home!</string>
+    <string name="back_home">Back to homepage</string>
+
+    <!-- LIGHTS -->
+
+    <!-- TEMPERATURE -->
+
+    <!-- NOTIFICATIONS -->
+
+    <!-- TV -->
+    <string name="girls_TV">Girl\'s TV</string>
+    <string name="boys_TV">Boys\'s TV</string>
+    <string name="ten_minutes">+10 minutes</string>
+    <string name="reset">reset</string>
+    <string name="reset_all">Reset all timers</string>
+    <string name="turn_off_tvs">Turn off TVs for today</string>
+    <string name="tvs_turned_off">"TV's turned off - turn back on"</string>
+
+    <!-- SETTINGS -->
+    <string name="integrate_new_device">new device</string>
+    <string name="troubleshoot">troubleshoot</string>
+    <string name="add_new_user">new user</string>
+
+    <string name="tv">TV</string>
+    <string name="phone">Phone</string>
+    <string name="lights_button">Lights</string>
+    <string name="radio">Radio</string>
+    <string name="thermostat">Thermostat</string>
+    <string name="audio">Audio</string>
+
+    <string name="new_device_added">A new %1$s was added</string>
+
+    <!-- SCHEDULE -->
+    <string name="add_event">Add event</string>
+    <string name="event_title">Title</string>
+    <string name="event_time">Time (hh:mm)</string>
+
+</resources>
